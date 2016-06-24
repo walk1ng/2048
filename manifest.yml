@@ -1,4 +1,4 @@
 ---
 applications:
 - name: game-2048
-  buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+  buildpack: staticfile_buildpack
